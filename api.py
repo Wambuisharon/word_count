@@ -1,7 +1,5 @@
 import requests
 import json
-
-
 print "Welcome to our cool weather console app" 
 
 city = raw_input("Enter city name: ")
